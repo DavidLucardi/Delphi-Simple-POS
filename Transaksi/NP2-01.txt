@@ -1,0 +1,27 @@
+Pesanan Anda : 
+Nasi Cowboy Soup (2) @ 25000 total Rp. 50000
+Bubbling Marquisa Delight (3) @ 12500 total Rp. 37500
+===============================================
+Nomer Nota	: NP2-01
+>>  Tanggal >> 22/02/16 >>  Pukul >> 14:15:00
+Dikirim ke :
+Nama Pelanggan	: paidjo
+Alamat		: 
+Telepon		: 
+Meja Nomer	: 5
+===============================================
+Total Pembelian Anda :
+Sub Total	: Rp. 87,500,-
+Diskon	: 0 %
+PPN	: 10 %
+===============================================
+Grand Total	: Rp. 96,250,-
+Bayar Tunai	: Rp. 100,000,-
+Kembali		: Rp. 3,750,-
+===============================================
+Kasir : Operator Kasir
+
+TERIMA KASIH ATAS KUNJUNGAN ANDA
+
+Harap menyimpan bukti ini untuk pengambilan
+dan penerimaan pesanan.
